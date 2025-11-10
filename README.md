@@ -1,4 +1,4 @@
-# customer-churn-perdiction
+# customer-churn-prediction
 Machine learning project that predicts customer churn using Random Forest and XGBoost classifiers. Includes business insights like expected revenue at risk, feature explainability (SHAP), and an interactive Streamlit dashboard.
 
 This project predicts which customers are most likely to discontinue their service (churn) using historical customer data.
